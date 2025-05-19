@@ -1,0 +1,155 @@
+<?xml version='1.0'?>
+<root>
+    <kyero>
+        <feed_version>3</feed_version>
+    </kyero>
+    <property>
+        <id>101a7c27-e733-46a8-899a-7ed676b8747a</id>
+        <date>2024-12-20 07:09:41</date>
+        <ref>VX1097</ref>
+        <price>2200000</price>
+        <surface_area>
+            <plot>1300</plot>
+            <built>400</built>
+        </surface_area>
+        <price_freq>sale</price_freq>
+        <province>Alicante</province>
+        <url>
+            <en>https://immomas.es/properties/vx1097</en>
+        </url>
+        <desc>
+            <nl>&lt;p class="font_8">$$$LEO UPDATE 15 Awesome property with balenas at sumpset</nl>
+            <en>&lt;p class="font_8">Large outdated property with direct access to the sea on large plot of land, ideal investment for those daring a very nice grand project! Top location ! Privacy and quiet guaranteed! Fantastic sea view! More info after appointment.</en>
+            <es>&lt;p class="font_8">¡Gran propiedad anticuada con acceso directo al mar en gran parcela de tierra, inversión ideal para aquellos que se atreven a un gran proyecto muy bonito! ¡Ubicación de primera !
+&lt;p class="font_8">¡Privacidad y tranquilidad garantizada! ¡Fantástica vista al mar!
+&lt;p class="font_8">Más información después de la cita.</es>
+            <fr>&lt;p class="font_8">Grande propriété vétuste avec accès direct à la mer sur grand terrain, investissement idéal pour ceux qui osent un très beau projet d'envergure ! Excellente situation !
+&lt;p class="font_8">Intimité et calme garantis ! Vue fantastique sur la mer !
+&lt;p class="font_8">Plus d'infos après rendez-vous.
+&lt;p class="font_8">&lt;br></fr>
+        </desc>
+        <images>
+            
+                <image id="1">
+                <url>https://static.wixstatic.com/media/0f9a79_7f160257ece748ae945c0678d8709b23~mv2.jpg</url>
+            </image>
+            
+                <image id="2">
+                <url>https://static.wixstatic.com/media/0f9a79_d1b6a1555e2f48f5b7927900cd79be43~mv2.jpg</url>
+            </image>
+            
+                <image id="3">
+                <url>https://static.wixstatic.com/media/0f9a79_ca479b213dfe4cae8836ca7e0fe2094b~mv2.jpg</url>
+            </image>
+            
+                <image id="4">
+                <url>https://static.wixstatic.com/media/0f9a79_13b8fe87356d422ca32b83c6dd1a54fd~mv2.jpg</url>
+            </image>
+            
+                <image id="5">
+                <url>https://static.wixstatic.com/media/0f9a79_d1b6a1555e2f48f5b7927900cd79be43~mv2.jpg</url>
+            </image>
+            
+                <image id="6">
+                <url>https://static.wixstatic.com/media/0f9a79_cc2dea81de4d4827819325b7feafd4e5~mv2.jpg</url>
+            </image>
+            
+                <image id="7">
+                <url>https://static.wixstatic.com/media/0f9a79_cc2dea81de4d4827819325b7feafd4e5~mv2.jpg</url>
+            </image>
+            
+                <image id="8">
+                <url>https://static.wixstatic.com/media/0f9a79_841c6e7f98064a3c8d670151eb12d063~mv2.jpg</url>
+            </image>
+            
+                <image id="9">
+                <url>https://static.wixstatic.com/media/0f9a79_25dbacda2d6748e8aba969bbe9976b53~mv2.jpg</url>
+            </image>
+            
+                <image id="10">
+                <url>https://static.wixstatic.com/media/0f9a79_ae94f6344b5e4d2fba4e274211f62c16~mv2.jpg</url>
+            </image>
+            
+                <image id="11">
+                <url>https://static.wixstatic.com/media/0f9a79_b9f105881b854f7ab5dc282eeccd110e~mv2.jpg</url>
+            </image>
+            
+                <image id="12">
+                <url>https://static.wixstatic.com/media/0f9a79_a702ac5f915e49d2bddaaf540b77244e~mv2.jpg</url>
+            </image>
+            
+                <image id="13">
+                <url>https://static.wixstatic.com/media/c88e06_fb0d4660c19b4731a86f7f5cd2fac62e~mv2.jpg</url>
+            </image>
+            
+                <image id="14">
+                <url>https://static.wixstatic.com/media/0f9a79_95622dc2204549128ab69e18d1645c2d~mv2.jpg</url>
+            </image>
+            
+                <image id="15">
+                <url>https://static.wixstatic.com/media/0f9a79_0d92ed8776634f3bb8ad27415d7c28c1~mv2.jpg</url>
+            </image>
+            
+                <image id="16">
+                <url>https://static.wixstatic.com/media/0f9a79_c436ca11d8604d76a56999d98ee868e1~mv2.jpg</url>
+            </image>
+            
+                <image id="17">
+                <url>https://static.wixstatic.com/media/0f9a79_6eb25e8cbcdf4856bb488fdd258e06fd~mv2.jpg</url>
+            </image>
+            
+                <image id="18">
+                <url>https://static.wixstatic.com/media/0f9a79_f9b4eadbe36e4f8f9a635e6cf659a406~mv2.jpg</url>
+            </image>
+            
+                <image id="19">
+                <url>https://static.wixstatic.com/media/0f9a79_f887ade837004db4bd910ca388e78fac~mv2.jpg</url>
+            </image>
+            
+                <image id="20">
+                <url>https://static.wixstatic.com/media/0f9a79_8e610f63d11f46ff990c517047892e00~mv2.jpg</url>
+            </image>
+            
+                <image id="21">
+                <url>https://static.wixstatic.com/media/0f9a79_1b3aed85522d44fb89e7603edad755ff~mv2.jpg</url>
+            </image>
+            
+                <image id="22">
+                <url>https://static.wixstatic.com/media/0f9a79_d6f33fd446234babb031be799bb122e4~mv2.jpg</url>
+            </image>
+            
+                <image id="23">
+                <url>https://static.wixstatic.com/media/0f9a79_ff8badd446b94d8d8564f068c4af976d~mv2.jpg</url>
+            </image>
+            
+                <image id="24">
+                <url>https://static.wixstatic.com/media/0f9a79_479a2fc4e9e84fdd923c0146fecbe4c1~mv2.jpg</url>
+            </image>
+            
+                <image id="25">
+                <url>https://static.wixstatic.com/media/0f9a79_27056cbdc6834a73a7a3cd875939d3c6~mv2.jpg</url>
+            </image>
+            
+                <image id="26">
+                <url>https://static.wixstatic.com/media/0f9a79_35577307a5bc4a6db992ecb6a23b22da~mv2.jpg</url>
+            </image>
+            
+                <image id="27">
+                <url>https://static.wixstatic.com/media/0f9a79_1619bd93bc9b4cd88c23ea46c0825aed~mv2.jpg</url>
+            </image>
+            
+                <image id="28">
+                <url>https://static.wixstatic.com/media/0f9a79_d5f75ce6162f44d5a9f0a7026441eb2b~mv2.jpg</url>
+            </image>
+            
+                <image id="29">
+                <url>https://static.wixstatic.com/media/0f9a79_a96f12ca17964b3ca10d91b260aabda8~mv2.jpg</url>
+            </image>
+        </images>
+        <new_build>1</new_build>
+        <beds>6</beds>
+        <baths>6</baths>
+        <type>Villa</type>
+        <town>Moraira</town>
+    </property>
+</root>
